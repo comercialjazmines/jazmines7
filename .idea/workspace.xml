@@ -1,0 +1,1281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ceaabc8e-a5a6-4d5d-a750-e213bd84b597" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/avatars/1.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/avatars/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/avatars/2.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/avatars/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/avatars/3.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/avatars/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/avatars/4.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/avatars/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/avatars/5.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/avatars/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/logo-big.png" afterPath="$PROJECT_DIR$/static/assets/demo/logo-big.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/pricing-bg.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/pricing-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/signin-bg-1.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/signin-bg-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/signin-bg-2.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/signin-bg-2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/signin-bg-3.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/signin-bg-3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/signin-bg-4.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/signin-bg-4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/signin-bg-5.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/signin-bg-5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/signin-bg-6.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/signin-bg-6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/signin-bg-7.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/signin-bg-7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/signin-bg-8.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/signin-bg-8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/signin-bg-9.jpg" afterPath="$PROJECT_DIR$/static/assets/demo/signin-bg-9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/themes/adminflare.png" afterPath="$PROJECT_DIR$/static/assets/demo/themes/adminflare.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/themes/asphalt.png" afterPath="$PROJECT_DIR$/static/assets/demo/themes/asphalt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/themes/clean.png" afterPath="$PROJECT_DIR$/static/assets/demo/themes/clean.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/themes/default.png" afterPath="$PROJECT_DIR$/static/assets/demo/themes/default.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/themes/dust.png" afterPath="$PROJECT_DIR$/static/assets/demo/themes/dust.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/themes/fresh.png" afterPath="$PROJECT_DIR$/static/assets/demo/themes/fresh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/themes/frost.png" afterPath="$PROJECT_DIR$/static/assets/demo/themes/frost.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/themes/purple-hills.png" afterPath="$PROJECT_DIR$/static/assets/demo/themes/purple-hills.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/themes/silver.png" afterPath="$PROJECT_DIR$/static/assets/demo/themes/silver.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/themes/white.png" afterPath="$PROJECT_DIR$/static/assets/demo/themes/white.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/fonts/font-awesome/FontAwesome.otf" afterPath="$PROJECT_DIR$/static/assets/fonts/font-awesome/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/fonts/font-awesome/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/static/assets/fonts/font-awesome/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/fonts/font-awesome/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/static/assets/fonts/font-awesome/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/fonts/font-awesome/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/static/assets/fonts/font-awesome/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/pixel-admin/avatar.png" afterPath="$PROJECT_DIR$/static/assets/images/pixel-admin/avatar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/pixel-admin/blank.png" afterPath="$PROJECT_DIR$/static/assets/images/pixel-admin/blank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/pixel-admin/jazmines.jpg" afterPath="$PROJECT_DIR$/static/assets/images/pixel-admin/jazmines.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/pixel-admin/main-menu-bg.png" afterPath="$PROJECT_DIR$/static/assets/images/pixel-admin/main-menu-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/pixel-admin/main-navbar-bg.png" afterPath="$PROJECT_DIR$/static/assets/images/pixel-admin/main-navbar-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/pixel-admin/main-navbar-logo.png" afterPath="$PROJECT_DIR$/static/assets/images/pixel-admin/main-navbar-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/plugins/bootstrap-editable/loading.gif" afterPath="$PROJECT_DIR$/static/assets/images/plugins/bootstrap-editable/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/plugins/jquery.minicolors.png" afterPath="$PROJECT_DIR$/static/assets/images/plugins/jquery.minicolors.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/themes/adminflare/body-bg.png" afterPath="$PROJECT_DIR$/static/assets/images/themes/adminflare/body-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/themes/adminflare/ie-navbar-bg.png" afterPath="$PROJECT_DIR$/static/assets/images/themes/adminflare/ie-navbar-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/themes/adminflare/menu-bg.png" afterPath="$PROJECT_DIR$/static/assets/images/themes/adminflare/menu-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/themes/clean/body-bg.gif" afterPath="$PROJECT_DIR$/static/assets/images/themes/clean/body-bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/1.jpg" afterPath="$PROJECT_DIR$/static/css/images/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/10.jpg" afterPath="$PROJECT_DIR$/static/css/images/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/1_1200x1080.jpg" afterPath="$PROJECT_DIR$/static/css/images/1_1200x1080.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/2.jpg" afterPath="$PROJECT_DIR$/static/css/images/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/2_1200x1080.png" afterPath="$PROJECT_DIR$/static/css/images/2_1200x1080.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/3.jpg" afterPath="$PROJECT_DIR$/static/css/images/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/33.jpg" afterPath="$PROJECT_DIR$/static/css/images/33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/3_1200x1080.jpg" afterPath="$PROJECT_DIR$/static/css/images/3_1200x1080.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/4.jpg" afterPath="$PROJECT_DIR$/static/css/images/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/5.jpg" afterPath="$PROJECT_DIR$/static/css/images/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/6.jpg" afterPath="$PROJECT_DIR$/static/css/images/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/7.jpg" afterPath="$PROJECT_DIR$/static/css/images/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/8.jpg" afterPath="$PROJECT_DIR$/static/css/images/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/6.jpg" afterPath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/7.jpg" afterPath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor.jpg" afterPath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor_1.jpg" afterPath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor_2.jpg" afterPath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor_3.jpg" afterPath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor_4.jpg" afterPath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor_5.jpg" afterPath="$PROJECT_DIR$/static/css/images/Bilder verkleinert/adulto mayor_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/IMG-20171110-WA0013.jpg" afterPath="$PROJECT_DIR$/static/css/images/IMG-20171110-WA0013.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/IMG-20171110-WA0016.jpg" afterPath="$PROJECT_DIR$/static/css/images/IMG-20171110-WA0016.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/IMG-20171110-WA0018.jpg" afterPath="$PROJECT_DIR$/static/css/images/IMG-20171110-WA0018.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/IMG-20171110-WA0019.jpg" afterPath="$PROJECT_DIR$/static/css/images/IMG-20171110-WA0019.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/IMG-20171110-WA0022.jpg" afterPath="$PROJECT_DIR$/static/css/images/IMG-20171110-WA0022.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/Thumbs.db" afterPath="$PROJECT_DIR$/static/css/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/ab.jpg" afterPath="$PROJECT_DIR$/static/css/images/ab.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/admin.jpg" afterPath="$PROJECT_DIR$/static/css/images/admin.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/admin2.jpg" afterPath="$PROJECT_DIR$/static/css/images/admin2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/adulto mayor.jpg" afterPath="$PROJECT_DIR$/static/css/images/adulto mayor.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/static/css/images/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/ascencion.jpeg" afterPath="$PROJECT_DIR$/static/css/images/ascencion.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/bg.JPG" afterPath="$PROJECT_DIR$/static/css/images/bg.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/book.jpg" afterPath="$PROJECT_DIR$/static/css/images/book.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/bottom.jpg" afterPath="$PROJECT_DIR$/static/css/images/bottom.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/brick.jpg" afterPath="$PROJECT_DIR$/static/css/images/brick.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/btn_jazmines (2).png" afterPath="$PROJECT_DIR$/static/css/images/btn_jazmines (2).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/btn_jazmines.png" afterPath="$PROJECT_DIR$/static/css/images/btn_jazmines.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/btn_solicitud_jazmines.png" afterPath="$PROJECT_DIR$/static/css/images/btn_solicitud_jazmines.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/c-arrows.png" afterPath="$PROJECT_DIR$/static/css/images/c-arrows.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/capilla.jpg" afterPath="$PROJECT_DIR$/static/css/images/capilla.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/capilla2.jpg" afterPath="$PROJECT_DIR$/static/css/images/capilla2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/cementerio.jpg" afterPath="$PROJECT_DIR$/static/css/images/cementerio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/cementerio2.jpg" afterPath="$PROJECT_DIR$/static/css/images/cementerio2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/cementerio3.jpg" afterPath="$PROJECT_DIR$/static/css/images/cementerio3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/cementerio4.jpg" afterPath="$PROJECT_DIR$/static/css/images/cementerio4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/cementerio5.jpg" afterPath="$PROJECT_DIR$/static/css/images/cementerio5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/close.png" afterPath="$PROJECT_DIR$/static/css/images/close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/columbarios01.jpg" afterPath="$PROJECT_DIR$/static/css/images/columbarios01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/coorserpark.png" afterPath="$PROJECT_DIR$/static/css/images/coorserpark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/eventovirgen.png" afterPath="$PROJECT_DIR$/static/css/images/eventovirgen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/f1.jpg" afterPath="$PROJECT_DIR$/static/css/images/f1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/f2.jpg" afterPath="$PROJECT_DIR$/static/css/images/f2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/f3.jpg" afterPath="$PROJECT_DIR$/static/css/images/f3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/f4.jpg" afterPath="$PROJECT_DIR$/static/css/images/f4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/favicon.ico" afterPath="$PROJECT_DIR$/static/css/images/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/g1.jpg" afterPath="$PROJECT_DIR$/static/css/images/g1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/g2.jpg" afterPath="$PROJECT_DIR$/static/css/images/g2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/g3.jpg" afterPath="$PROJECT_DIR$/static/css/images/g3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/g4.jpg" afterPath="$PROJECT_DIR$/static/css/images/g4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/g5.jpg" afterPath="$PROJECT_DIR$/static/css/images/g5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/g6.jpg" afterPath="$PROJECT_DIR$/static/css/images/g6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/g7.jpg" afterPath="$PROJECT_DIR$/static/css/images/g7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/g8.jpg" afterPath="$PROJECT_DIR$/static/css/images/g8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/imagenes antiguas/5.jpg" afterPath="$PROJECT_DIR$/static/css/images/imagenes antiguas/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/imagenes antiguas/6.jpg" afterPath="$PROJECT_DIR$/static/css/images/imagenes antiguas/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/imagenes antiguas/7.jpg" afterPath="$PROJECT_DIR$/static/css/images/imagenes antiguas/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/imagenes antiguas/8.jpg" afterPath="$PROJECT_DIR$/static/css/images/imagenes antiguas/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/jazmin5.ico" afterPath="$PROJECT_DIR$/static/css/images/jazmin5.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/jazmines.jpg" afterPath="$PROJECT_DIR$/static/css/images/jazmines.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/los olivos.png" afterPath="$PROJECT_DIR$/static/css/images/los olivos.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/mascotas.jpg" afterPath="$PROJECT_DIR$/static/css/images/mascotas.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/move-top.png" afterPath="$PROJECT_DIR$/static/css/images/move-top.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/next.png" afterPath="$PROJECT_DIR$/static/css/images/next.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/ofrenda.png" afterPath="$PROJECT_DIR$/static/css/images/ofrenda.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/orquideas.png" afterPath="$PROJECT_DIR$/static/css/images/orquideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/osarios.jpg" afterPath="$PROJECT_DIR$/static/css/images/osarios.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/osarios2.jpg" afterPath="$PROJECT_DIR$/static/css/images/osarios2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/parque1.jpg" afterPath="$PROJECT_DIR$/static/css/images/parque1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/parquecementerio.jpg" afterPath="$PROJECT_DIR$/static/css/images/parquecementerio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/play-button.png" afterPath="$PROJECT_DIR$/static/css/images/play-button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/premio.jpg" afterPath="$PROJECT_DIR$/static/css/images/premio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/premio2.jpg" afterPath="$PROJECT_DIR$/static/css/images/premio2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/prev.png" afterPath="$PROJECT_DIR$/static/css/images/prev.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/prever23.gif" afterPath="$PROJECT_DIR$/static/css/images/prever23.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/question-mark-2492009_1280.jpg" afterPath="$PROJECT_DIR$/static/css/images/question-mark-2492009_1280.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/sala.jpg" afterPath="$PROJECT_DIR$/static/css/images/sala.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/sala2.jpg" afterPath="$PROJECT_DIR$/static/css/images/sala2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/salavip.jpg" afterPath="$PROJECT_DIR$/static/css/images/salavip.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/salavip1.jpg" afterPath="$PROJECT_DIR$/static/css/images/salavip1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/salavip2.jpg" afterPath="$PROJECT_DIR$/static/css/images/salavip2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/salavip3.jpg" afterPath="$PROJECT_DIR$/static/css/images/salavip3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/sc1.png" afterPath="$PROJECT_DIR$/static/css/images/sc1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/search.png" afterPath="$PROJECT_DIR$/static/css/images/search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/servicioexequoal.jpg" afterPath="$PROJECT_DIR$/static/css/images/servicioexequoal.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/solicitar.jpg" afterPath="$PROJECT_DIR$/static/css/images/solicitar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/solicitarservicio.jpg" afterPath="$PROJECT_DIR$/static/css/images/solicitarservicio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/solicitarservicioex.png" afterPath="$PROJECT_DIR$/static/css/images/solicitarservicioex.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/solicitudservicio.jpg" afterPath="$PROJECT_DIR$/static/css/images/solicitudservicio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/t1.jpg" afterPath="$PROJECT_DIR$/static/css/images/t1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/t2.jpg" afterPath="$PROJECT_DIR$/static/css/images/t2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/t3.jpg" afterPath="$PROJECT_DIR$/static/css/images/t3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/t4.jpg" afterPath="$PROJECT_DIR$/static/css/images/t4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/tick.png" afterPath="$PROJECT_DIR$/static/css/images/tick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/virgen.png" afterPath="$PROJECT_DIR$/static/css/images/virgen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/virgen_publicidad.jpg" afterPath="$PROJECT_DIR$/static/css/images/virgen_publicidad.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/images/watch.jpg" afterPath="$PROJECT_DIR$/static/css/images/watch.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/static/css_login/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/static/css_login/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/static/css_login/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/static/css_login/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/static/css_login/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/static/css_login/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/static/css_login/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/images/Thumbs.db" afterPath="$PROJECT_DIR$/static/css_login/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/images/bg10.jpg" afterPath="$PROJECT_DIR$/static/css_login/images/bg10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/images/jazmines.jpg" afterPath="$PROJECT_DIR$/static/css_login/images/jazmines.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/static/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/1.jpg" afterPath="$PROJECT_DIR$/static/images/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/10.jpg" afterPath="$PROJECT_DIR$/static/images/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/2.jpg" afterPath="$PROJECT_DIR$/static/images/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/3.jpg" afterPath="$PROJECT_DIR$/static/images/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/33.jpg" afterPath="$PROJECT_DIR$/static/images/33.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/4.jpg" afterPath="$PROJECT_DIR$/static/images/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/5.jpg" afterPath="$PROJECT_DIR$/static/images/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/6.jpg" afterPath="$PROJECT_DIR$/static/images/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/7.jpg" afterPath="$PROJECT_DIR$/static/images/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/8.jpg" afterPath="$PROJECT_DIR$/static/images/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Bilder verkleinert/6.jpg" afterPath="$PROJECT_DIR$/static/images/Bilder verkleinert/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Bilder verkleinert/7.jpg" afterPath="$PROJECT_DIR$/static/images/Bilder verkleinert/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor.jpg" afterPath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor_1.jpg" afterPath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor_2.jpg" afterPath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor_3.jpg" afterPath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor_4.jpg" afterPath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor_5.jpg" afterPath="$PROJECT_DIR$/static/images/Bilder verkleinert/adulto mayor_5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/IMG-20171110-WA0013.jpg" afterPath="$PROJECT_DIR$/static/images/IMG-20171110-WA0013.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/IMG-20171110-WA0016.jpg" afterPath="$PROJECT_DIR$/static/images/IMG-20171110-WA0016.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/IMG-20171110-WA0018.jpg" afterPath="$PROJECT_DIR$/static/images/IMG-20171110-WA0018.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/IMG-20171110-WA0019.jpg" afterPath="$PROJECT_DIR$/static/images/IMG-20171110-WA0019.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/IMG-20171110-WA0022.jpg" afterPath="$PROJECT_DIR$/static/images/IMG-20171110-WA0022.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/Thumbs.db" afterPath="$PROJECT_DIR$/static/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/ab.jpg" afterPath="$PROJECT_DIR$/static/images/ab.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/admin.jpg" afterPath="$PROJECT_DIR$/static/images/admin.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/admin2.jpg" afterPath="$PROJECT_DIR$/static/images/admin2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/adulto mayor.jpg" afterPath="$PROJECT_DIR$/static/images/adulto mayor.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/static/images/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/ascencion.jpeg" afterPath="$PROJECT_DIR$/static/images/ascencion.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/bg.JPG" afterPath="$PROJECT_DIR$/static/images/bg.JPG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/book.jpg" afterPath="$PROJECT_DIR$/static/images/book.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/bottom.jpg" afterPath="$PROJECT_DIR$/static/images/bottom.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/brick.jpg" afterPath="$PROJECT_DIR$/static/images/brick.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/btn_jazmines.png" afterPath="$PROJECT_DIR$/static/images/btn_jazmines.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/c-arrows.png" afterPath="$PROJECT_DIR$/static/images/c-arrows.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/capilla.jpg" afterPath="$PROJECT_DIR$/static/images/capilla.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/capilla2.jpg" afterPath="$PROJECT_DIR$/static/images/capilla2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/cementerio.jpg" afterPath="$PROJECT_DIR$/static/images/cementerio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/cementerio2.jpg" afterPath="$PROJECT_DIR$/static/images/cementerio2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/cementerio3.jpg" afterPath="$PROJECT_DIR$/static/images/cementerio3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/cementerio4.jpg" afterPath="$PROJECT_DIR$/static/images/cementerio4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/cementerio5.jpg" afterPath="$PROJECT_DIR$/static/images/cementerio5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/close.png" afterPath="$PROJECT_DIR$/static/images/close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/columbarios01.jpg" afterPath="$PROJECT_DIR$/static/images/columbarios01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/coorserpark.png" afterPath="$PROJECT_DIR$/static/images/coorserpark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/eventovirgen.png" afterPath="$PROJECT_DIR$/static/images/eventovirgen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/f1.jpg" afterPath="$PROJECT_DIR$/static/images/f1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/f2.jpg" afterPath="$PROJECT_DIR$/static/images/f2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/f3.jpg" afterPath="$PROJECT_DIR$/static/images/f3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/f4.jpg" afterPath="$PROJECT_DIR$/static/images/f4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/favicon.ico" afterPath="$PROJECT_DIR$/static/images/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/g1.jpg" afterPath="$PROJECT_DIR$/static/images/g1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/g2.jpg" afterPath="$PROJECT_DIR$/static/images/g2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/g3.jpg" afterPath="$PROJECT_DIR$/static/images/g3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/g4.jpg" afterPath="$PROJECT_DIR$/static/images/g4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/g5.jpg" afterPath="$PROJECT_DIR$/static/images/g5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/g6.jpg" afterPath="$PROJECT_DIR$/static/images/g6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/g7.jpg" afterPath="$PROJECT_DIR$/static/images/g7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/g8.jpg" afterPath="$PROJECT_DIR$/static/images/g8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/imagenes antiguas/5.jpg" afterPath="$PROJECT_DIR$/static/images/imagenes antiguas/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/imagenes antiguas/6.jpg" afterPath="$PROJECT_DIR$/static/images/imagenes antiguas/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/imagenes antiguas/7.jpg" afterPath="$PROJECT_DIR$/static/images/imagenes antiguas/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/imagenes antiguas/8.jpg" afterPath="$PROJECT_DIR$/static/images/imagenes antiguas/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/isotipo horizontal (1)_308x206.png" afterPath="$PROJECT_DIR$/static/images/isotipo horizontal (1)_308x206.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/isotipo_308x206.png" afterPath="$PROJECT_DIR$/static/images/isotipo_308x206.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/jazmin5.ico" afterPath="$PROJECT_DIR$/static/images/jazmin5.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/jazmines.jpg" afterPath="$PROJECT_DIR$/static/images/jazmines.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/logo artelares registrado 1_308x206.jpg" afterPath="$PROJECT_DIR$/static/images/logo artelares registrado 1_308x206.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/los olivos.png" afterPath="$PROJECT_DIR$/static/images/los olivos.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/mascotas.jpg" afterPath="$PROJECT_DIR$/static/images/mascotas.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/move-top.png" afterPath="$PROJECT_DIR$/static/images/move-top.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/next.png" afterPath="$PROJECT_DIR$/static/images/next.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/ofrenda.png" afterPath="$PROJECT_DIR$/static/images/ofrenda.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/orquideas.png" afterPath="$PROJECT_DIR$/static/images/orquideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/osarios.jpg" afterPath="$PROJECT_DIR$/static/images/osarios.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/osarios2.jpg" afterPath="$PROJECT_DIR$/static/images/osarios2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/parque1.jpg" afterPath="$PROJECT_DIR$/static/images/parque1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/parquecementerio.jpg" afterPath="$PROJECT_DIR$/static/images/parquecementerio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/play-button.png" afterPath="$PROJECT_DIR$/static/images/play-button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/premio.jpg" afterPath="$PROJECT_DIR$/static/images/premio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/premio2.jpg" afterPath="$PROJECT_DIR$/static/images/premio2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/prev.png" afterPath="$PROJECT_DIR$/static/images/prev.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/prever23.gif" afterPath="$PROJECT_DIR$/static/images/prever23.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/sala.jpg" afterPath="$PROJECT_DIR$/static/images/sala.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/sala2.jpg" afterPath="$PROJECT_DIR$/static/images/sala2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/salavip.jpg" afterPath="$PROJECT_DIR$/static/images/salavip.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/salavip1.jpg" afterPath="$PROJECT_DIR$/static/images/salavip1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/salavip2.jpg" afterPath="$PROJECT_DIR$/static/images/salavip2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/salavip3.jpg" afterPath="$PROJECT_DIR$/static/images/salavip3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/san francisco_308x206.jpg" afterPath="$PROJECT_DIR$/static/images/san francisco_308x206.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/search.png" afterPath="$PROJECT_DIR$/static/images/search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/solicitar.jpg" afterPath="$PROJECT_DIR$/static/images/solicitar.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/solicitarservicio.ai" afterPath="$PROJECT_DIR$/static/images/solicitarservicio.ai" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/solicitarservicio.jpg" afterPath="$PROJECT_DIR$/static/images/solicitarservicio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/solicitarservicio.png" afterPath="$PROJECT_DIR$/static/images/solicitarservicio.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/solicitudservicio.jpg" afterPath="$PROJECT_DIR$/static/images/solicitudservicio.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/t1.jpg" afterPath="$PROJECT_DIR$/static/images/t1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/t2.jpg" afterPath="$PROJECT_DIR$/static/images/t2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/t3.jpg" afterPath="$PROJECT_DIR$/static/images/t3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/t4.jpg" afterPath="$PROJECT_DIR$/static/images/t4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/tick.png" afterPath="$PROJECT_DIR$/static/images/tick.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/virgen.png" afterPath="$PROJECT_DIR$/static/images/virgen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/virgen_publicidad.jpg" afterPath="$PROJECT_DIR$/static/images/virgen_publicidad.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/images/watch.jpg" afterPath="$PROJECT_DIR$/static/images/watch.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/demo.js" afterPath="$PROJECT_DIR$/static/assets/demo/demo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/less-1.7.0.js" afterPath="$PROJECT_DIR$/static/assets/demo/less-1.7.0.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/less/bootstrap-mixins.less" afterPath="$PROJECT_DIR$/static/assets/demo/less/bootstrap-mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/less/bootstrap-variables.less" afterPath="$PROJECT_DIR$/static/assets/demo/less/bootstrap-variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/less/colors.less" afterPath="$PROJECT_DIR$/static/assets/demo/less/colors.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/less/mixins.less" afterPath="$PROJECT_DIR$/static/assets/demo/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/demo/less/variables.less" afterPath="$PROJECT_DIR$/static/assets/demo/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/fonts/font-awesome/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/assets/fonts/font-awesome/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/images/pixel-admin/blur.svg" afterPath="$PROJECT_DIR$/static/assets/images/pixel-admin/blur.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/bootstrap-editable-demo.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/bootstrap-editable-demo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/bootstrap-editable-demo.min.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/bootstrap-editable-demo.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/bootstrap.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/bootstrap.min.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/demo-mock.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/demo-mock.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/demo-mock.min.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/demo-mock.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/ie.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/ie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/ie.min.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/ie.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/jquery-ui-extras.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/jquery-ui-extras.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/jquery-ui-extras.min.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/jquery-ui-extras.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/jquery.mockjax.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/jquery.mockjax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/jquery.mockjax.min.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/jquery.mockjax.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/pixel-admin.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/pixel-admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/javascripts/pixel-admin.min.js" afterPath="$PROJECT_DIR$/static/assets/javascripts/pixel-admin.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/bootstrap.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/bootstrap.min.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/pages.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/pages.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/pages.min.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/pages.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/pixel-admin.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/pixel-admin.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/pixel-admin.min.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/pixel-admin.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/rtl.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/rtl.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/rtl.min.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/rtl.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/themes.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/themes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/themes.min.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/themes.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/w3.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/w3.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/widgets.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/widgets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/assets/stylesheets/widgets.min.css" afterPath="$PROJECT_DIR$/static/assets/stylesheets/widgets.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/bootstrap.css" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/diseño.css" afterPath="$PROJECT_DIR$/static/css/diseño.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/flexslider.css" afterPath="$PROJECT_DIR$/static/css/flexslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/font-awesome.css" afterPath="$PROJECT_DIR$/static/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/jquery-ui.css" afterPath="$PROJECT_DIR$/static/css/jquery-ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/lightbox.css" afterPath="$PROJECT_DIR$/static/css/lightbox.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/pruebas.html" afterPath="$PROJECT_DIR$/static/css/pruebas.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style login.css" afterPath="$PROJECT_DIR$/static/css/style login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style.css" afterPath="$PROJECT_DIR$/static/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/style_convenios.css" afterPath="$PROJECT_DIR$/static/css/style_convenios.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/tables.css" afterPath="$PROJECT_DIR$/static/css/tables.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/w3.css" afterPath="$PROJECT_DIR$/static/css/w3.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css/zoomslider.css" afterPath="$PROJECT_DIR$/static/css/zoomslider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/font-awesome.css" afterPath="$PROJECT_DIR$/static/css_login/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/css_login/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/style_login.css" afterPath="$PROJECT_DIR$/static/css_login/style_login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/css_login/w3_login.css" afterPath="$PROJECT_DIR$/static/css_login/w3_login.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/bootstrap.js" afterPath="$PROJECT_DIR$/static/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/classie.js" afterPath="$PROJECT_DIR$/static/js/classie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/easing.js" afterPath="$PROJECT_DIR$/static/js/easing.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery-2.1.4.min.js" afterPath="$PROJECT_DIR$/static/js/jquery-2.1.4.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery-ui.js" afterPath="$PROJECT_DIR$/static/js/jquery-ui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.flexslider.js" afterPath="$PROJECT_DIR$/static/js/jquery.flexslider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/jquery.zoomslider.min.js" afterPath="$PROJECT_DIR$/static/js/jquery.zoomslider.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/lightbox-plus-jquery.min.js" afterPath="$PROJECT_DIR$/static/js/lightbox-plus-jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/main.js" afterPath="$PROJECT_DIR$/static/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/modernizr-2.6.2.min.js" afterPath="$PROJECT_DIR$/static/js/modernizr-2.6.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/move-top.js" afterPath="$PROJECT_DIR$/static/js/move-top.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/simplePlayer.js" afterPath="$PROJECT_DIR$/static/js/simplePlayer.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2527">
+              <caret line="133" column="48" lean-forward="false" selection-start-line="133" selection-start-column="48" selection-end-line="133" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2337">
+              <caret line="123" column="16" lean-forward="false" selection-start-line="123" selection-start-column="16" selection-end-line="127" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sesion_usuario.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/sesion_usuario.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11058">
+              <caret line="582" column="0" lean-forward="false" selection-start-line="582" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="obituarios.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/obituarios.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="terminos.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/terminos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="alianzas.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/alianzas.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1026">
+              <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1045">
+              <caret line="55" column="101" lean-forward="false" selection-start-line="55" selection-start-column="101" selection-end-line="55" selection-end-column="101" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="planes.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/planes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="368" column="65" lean-forward="false" selection-start-line="368" selection-start-column="65" selection-end-line="368" selection-end-column="65" />
+              <folding>
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#2;n#div#1;n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="51" column="14" lean-forward="false" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>4083</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/static" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/static/assets/stylesheets/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/templates/sesion_obituarios.html" />
+        <option value="$PROJECT_DIR$/jazmines/models.py" />
+        <option value="$PROJECT_DIR$/jazmines/admin.py" />
+        <option value="$PROJECT_DIR$/jazminesexequiales/settings.py" />
+        <option value="$PROJECT_DIR$/templates/sesion_eventos.html" />
+        <option value="$PROJECT_DIR$/templates/modificar_eventos.html" />
+        <option value="$PROJECT_DIR$/templates/agregar_eventos.html" />
+        <option value="$PROJECT_DIR$/templates/historico_eventos.html" />
+        <option value="$PROJECT_DIR$/templates/actualizar_noticias.html" />
+        <option value="$PROJECT_DIR$/jazmines/views.py" />
+        <option value="$PROJECT_DIR$/jazminesexequiales/urls.py" />
+        <option value="$PROJECT_DIR$/templates/agregar_usuario.html" />
+        <option value="$PROJECT_DIR$/templates/modificar_usuario.html" />
+        <option value="$PROJECT_DIR$/templates/visualizar_usuario.html" />
+        <option value="$PROJECT_DIR$/static/css/flexslider.css" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/gallery.html" />
+        <option value="$PROJECT_DIR$/templates/contact.html" />
+        <option value="$PROJECT_DIR$/templates/obituarios.html" />
+        <option value="$PROJECT_DIR$/templates/terminos.html" />
+        <option value="$PROJECT_DIR$/templates/alianzas.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/about.html" />
+        <option value="$PROJECT_DIR$/templates/sesion_usuario.html" />
+        <option value="$PROJECT_DIR$/templates/planes.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jazminesexequiales" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jazminesexequiales" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jazminesexequiales" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jazminesexequiales" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jazminesexequiales" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jazminesexequiales" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aprendiz Sena\PycharmProjects\jazminesexequiales\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Django server.jazminesexequiales">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jazminesexequiales" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jazminesexequiales" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jazminesexequiales" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jazminesexequiales" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jazminesexequiales" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="jazminesexequiales" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jazminesexequiales" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jazminesexequiales" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="jazminesexequiales" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="jazminesexequiales.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="jazminesexequiales" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Django server.jazminesexequiales" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceaabc8e-a5a6-4d5d-a750-e213bd84b597" name="Default" comment="" />
+      <created>1513109874296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513109874296</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2980333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26476908" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="79" lean-forward="false" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+          <folding>
+            <element signature="e#1#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/agregar_usuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6825">
+          <caret line="325" column="24" lean-forward="false" selection-start-line="320" selection-start-column="16" selection-end-line="325" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/historico_eventos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5250">
+          <caret line="250" column="56" lean-forward="false" selection-start-line="250" selection-start-column="56" selection-end-line="250" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="76" column="92" lean-forward="false" selection-start-line="76" selection-start-column="92" selection-end-line="76" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="82" column="27" lean-forward="false" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="75" column="95" lean-forward="false" selection-start-line="75" selection-start-column="95" selection-end-line="75" selection-end-column="95" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/stylesheets/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2491" lean-forward="false" selection-start-line="0" selection-start-column="2491" selection-end-line="0" selection-end-column="2491" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sesion_obituarios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7224">
+          <caret line="344" column="18" lean-forward="false" selection-start-line="344" selection-start-column="18" selection-end-line="344" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazmines/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2982">
+          <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="82" column="27" lean-forward="false" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazmines/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="82" column="27" lean-forward="false" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazmines/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="82" column="27" lean-forward="false" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazmines/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="100" column="38" lean-forward="true" selection-start-line="100" selection-start-column="38" selection-end-line="100" selection-end-column="38" />
+          <folding>
+            <element signature="e#2#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="82" column="27" lean-forward="true" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazmines/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/stylesheets/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2491" lean-forward="false" selection-start-line="0" selection-start-column="2491" selection-end-line="0" selection-end-column="2491" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sesion_obituarios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="349" column="18" lean-forward="false" selection-start-line="349" selection-start-column="18" selection-end-line="349" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazmines/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="102" column="59" lean-forward="false" selection-start-line="102" selection-start-column="59" selection-end-line="102" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazmines/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="67" column="157" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="67" selection-end-column="157" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sesion_eventos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="329" column="202" lean-forward="false" selection-start-line="329" selection-start-column="202" selection-end-line="329" selection-end-column="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/modificar_eventos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="329" column="0" lean-forward="false" selection-start-line="329" selection-start-column="0" selection-end-line="329" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/agregar_eventos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="400" column="0" lean-forward="false" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/historico_eventos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5250">
+          <caret line="250" column="56" lean-forward="false" selection-start-line="250" selection-start-column="56" selection-end-line="250" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/actualizar_noticias.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="74" lean-forward="false" selection-start-line="44" selection-start-column="74" selection-end-line="44" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/agregar_usuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6175">
+          <caret line="325" column="24" lean-forward="false" selection-start-line="320" selection-start-column="16" selection-end-line="325" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazmines/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1653">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="34" column="79" lean-forward="false" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
+          <folding>
+            <element signature="e#1#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/modificar_usuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6973">
+          <caret line="367" column="23" lean-forward="false" selection-start-line="367" selection-start-column="23" selection-end-line="367" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/visualizar_usuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="29" lean-forward="false" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/images/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/flexslider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1501">
+          <caret line="79" column="20" lean-forward="false" selection-start-line="79" selection-start-column="20" selection-end-line="79" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jazminesexequiales/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/gallery.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="14" lean-forward="false" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/obituarios.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/terminos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/alianzas.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="9" lean-forward="false" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="55" column="101" lean-forward="false" selection-start-line="55" selection-start-column="101" selection-end-line="55" selection-end-column="101" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2337">
+          <caret line="123" column="16" lean-forward="false" selection-start-line="123" selection-start-column="16" selection-end-line="127" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2527">
+          <caret line="133" column="48" lean-forward="false" selection-start-line="133" selection-start-column="48" selection-end-line="133" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/sesion_usuario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11058">
+          <caret line="582" column="0" lean-forward="false" selection-start-line="582" selection-start-column="0" selection-end-line="582" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/planes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="368" column="65" lean-forward="false" selection-start-line="368" selection-start-column="65" selection-end-line="368" selection-end-column="65" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#2;n#div#1;n#div#2;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
